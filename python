@@ -1,0 +1,9 @@
+name = "Subaranjan"
+role = "DevOps Fresher"
+print("Hello,", name)
+print("Welcome to Python programming!")
+print("Your role is:", role)
+for number in range(1, 6):
+    print("Practice number:", number)
+print("Git helps us track code changes.")
+print("Keep learning every day!")
